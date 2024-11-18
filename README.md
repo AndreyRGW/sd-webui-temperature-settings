@@ -1,5 +1,6 @@
 ﻿# A1111 SD WebUI Temperature Settings **WIP**
 This is an Extension for the [A1111 SD WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui), which implements "UNET temperature settings."
+And CLIP in the future
 
 <p align="center">
 <img src="xyz_grid-00011.png"><br>
