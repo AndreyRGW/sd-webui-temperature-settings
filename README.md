@@ -3,6 +3,8 @@ This is an Extension for the [A1111 SD WebUI](https://github.com/AUTOMATIC1111/s
 
 And CLIP in the future
 
+**! The code will be uploaded when I achieve a minimally working version of the attention switch !**
+
 <p align="center">
 <img src="xyz_grid-00011.png"><br>
 <code>outdoors, girl, red hair, sunset, natural lighting, (bokeh:1.3), Porta 160 color, full body shot</code><br>
